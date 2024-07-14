@@ -4,6 +4,7 @@
 
 ## **State Transitions** -
 
+```
 i = insert
 
 I = insert at start of the line
@@ -59,7 +60,7 @@ ZQ = quit without saving
 :q = quit
 
 :q!     = quit without saving
-
+```
 
 # 2. VCS & git -
 
