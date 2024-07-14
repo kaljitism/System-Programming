@@ -1,8 +1,3 @@
-# UNC-Comp211 -
-
-Taught by Kris
-Jorden. [Playlist](https://www.youtube.com/playlist?list=PLKUb7MEve0TjHQSKUWChAWyJPCpYMRovO)
-
 ## Topics covered -
 
 ### 1. Vim -
