@@ -1,10 +1,8 @@
-## Topics covered -
-
-### 1. Vim -
+# 1. Vim -
 
 **Vi** i**m**proved
 
-**State Transitions** -
+## **State Transitions** -
 
 i = insert
 I = insert at start of the line
