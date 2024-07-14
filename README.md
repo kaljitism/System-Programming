@@ -1,16 +1,10 @@
-# UNC-Comp211 -
-
-Taught by Kris
-Jorden. [Playlist](https://www.youtube.com/playlist?list=PLKUb7MEve0TjHQSKUWChAWyJPCpYMRovO)
-
-## Topics covered -
-
-### 1. Vim -
+# 1. Vim -
 
 **Vi** i**m**proved
 
-**State Transitions** -
+## **State Transitions** -
 
+```
 i = insert
 I = insert at start of the line
 a = append
@@ -39,6 +33,7 @@ ZQ = quit without saving
 :wq = write and quit
 :q = quit
 :q!     = quit without saving
+```
 
 # 2. VCS & git -
 
