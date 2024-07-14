@@ -6,59 +6,32 @@
 
 ```
 i = insert
-
 I = insert at start of the line
-
 a = append
-
 A = append at the end of the line
-
 c = change
-
 C = change at the end of the line
-
 o = insert a line below
-
 O = insert a line above
-
 u = undo change
-
 h = move one character left
-
 l = move one character right
-
 j = move one line below
-
 k = move one line above
-
 Ctrl+r = redo
-
 . = repeat last operation
-
 Ctrl+[  = Esc/ normal mode
-
 v = visual
-
 Shift+V = line mode
-
 Ctrl+V = column mode
-
 dd = delete
-
 y = yank
-
 ZZ = quit after saving
-
 ZQ = quit without saving
-
 :       = command mode
-
 :w = write
-
 :wq = write and quit
-
 :q = quit
-
 :q!     = quit without saving
 ```
 
